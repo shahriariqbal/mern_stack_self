@@ -1,0 +1,13 @@
+.nav-dark {
+  color: white;
+  font-weight: bold;
+}
+
+.custom-link {
+  color: inherit;
+}
+
+.custom-link:hover {
+  text-decoration: none;
+  color: #9b9b9b;
+}
